@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitAutoCommit", "GitAutoCommit\GitAutoCommit.csproj", "{84346827-FB37-4FF3-B7B3-E9B99B51991E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84346827-FB37-4FF3-B7B3-E9B99B51991E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84346827-FB37-4FF3-B7B3-E9B99B51991E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84346827-FB37-4FF3-B7B3-E9B99B51991E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84346827-FB37-4FF3-B7B3-E9B99B51991E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
